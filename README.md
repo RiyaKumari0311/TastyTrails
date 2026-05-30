@@ -1,6 +1,6 @@
 # TastyTrails
 
-QuickBite is a full-stack food delivery web application built using the MERN stack. Users can browse food items, add them to cart, place orders, and manage authentication securely.
+TastyTrails is a full-stack food delivery web application built using the MERN stack. Users can browse food items, add them to cart, place orders, and manage authentication securely.
 
 ## Features
 
