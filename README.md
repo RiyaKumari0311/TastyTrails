@@ -44,7 +44,7 @@ git clone https://github.com/RiyaKumari0311/TastyTrails.git
 ### Install Frontend Dependencies
 npm install
 
-###Install Backend Dependencies
+### Install Backend Dependencies
 cd backend
 npm install
 
